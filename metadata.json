@@ -1,0 +1,5 @@
+{
+  "name": "Pixelify AI",
+  "description": "Transform any image into stunning retro pixel art using Gemini AI. Choose between 8-bit, 16-bit, 32-bit, and 64-bit styles for the perfect nostalgic look.",
+  "requestFramePermissions": []
+}
